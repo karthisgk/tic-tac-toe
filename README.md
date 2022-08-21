@@ -11,7 +11,7 @@ npm install
 node ./bin/www
 ```
 
-open your browser & type ![http://localhost:8080/room/jw0ba](http://localhost:8080/room/jw0ba) to play the game
+open your browser & type ![http://localhost:8080/](http://localhost:8080/) to play the game
 
 ![Screen Shot](https://raw.githubusercontent.com/karthisgk/tic-tac-toe/main/public/images/Mobile.png)
 
